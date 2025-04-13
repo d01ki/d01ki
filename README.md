@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My Skills](https://skillicons.dev/icons?i=kali,python)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1f102201672&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=s1f102201672&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1f102201672&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1f102201672&show_icons=true&theme=tokyonight)
