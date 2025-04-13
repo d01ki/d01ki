@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 -->
 [![My Skills](https://skillicons.dev/icons?i=kali,python)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1f102201672&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1f102201672&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=s1f102201672&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=s1f102201672&theme=tokyonight)
+<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1f102201672&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=s1f102201672&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
+</div>
