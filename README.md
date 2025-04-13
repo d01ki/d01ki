@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=s1f102201672&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1f102201672&show_icons=true&theme=tokyonight)
