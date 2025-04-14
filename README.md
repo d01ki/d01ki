@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=kali,python,aws,linux)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="HackTheBox"/>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,python,aws,linux" alt="My Skills"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="HackTheBox"/>
 </div>
 
 <br/>
