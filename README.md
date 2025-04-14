@@ -1,20 +1,14 @@
 ## Hi there 👋
 
-<!--
-**s1f102201672/s1f102201672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=kali,python,aws,linux)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![My Skills](https://skillicons.dev/icons?i=kali,python)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="HackTheBox"/>
+
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1f102201672&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
