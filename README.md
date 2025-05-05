@@ -25,12 +25,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1f102201672&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=s1f102201672&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d01ki&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=d01ki&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=s1f102201672&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=d01ki&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
 </div>
