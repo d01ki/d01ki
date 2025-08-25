@@ -3,6 +3,9 @@
 <div align="center">
   <h3>🚀 Tech Stack</h3>
   <!-- Skill Icons with Links -->
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux"/>
+  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
   </a>
@@ -16,15 +19,14 @@
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
   </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="HackTheBox"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d01ki&layout=compact&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=d01ki&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d01ki&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=d01ki&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
 </div>
 
 <br/>
