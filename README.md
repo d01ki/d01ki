@@ -13,17 +13,6 @@
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=flask" alt="Flask"/>
   </a>
-  <!-- Databases -->
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"/>
-  </a>
-  <!-- Cloud & Infrastructure -->
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
-  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
   </a>
