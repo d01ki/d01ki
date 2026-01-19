@@ -1,37 +1,16 @@
 ## Hi there 👋
+
 <div align="center">
-  <h3> Tech Stack</h3>
-  <!-- Skill Icons with Links -->
-  <!-- Programming Languages -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,tailwind,fastapi,nginx,docker,linux,kali" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
-  </a>
-  <!-- Frameworks -->
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flask" alt="Flask"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
-  </a>
-  <!-- Operating Systems -->
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
-  </a>
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux"/>
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="HackTheBox"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d01ki&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=d01ki&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=d01ki&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" height="28" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=d01ki&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d01ki&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=d01ki&theme=tokyonight&column=7&margin-w=15&no-bg=true" width="100%" alt="Trophies" />
 </div>
