@@ -12,3 +12,4 @@ Evidence-driven patch prioritization.
 
 **[AIBOM Inspector](https://github.com/d01ki/AIBOM-Inspector)**
 AI supply chain analysis and visualization.
+[Black Hat Europe 2026 Arsenal](https://blackhat.com/europe/arsenal/schedule/#aibom-inspector-discovering-hidden-ai-supply-chains-56610)
